@@ -65,8 +65,9 @@ function loadEvent() {
                 <span class="buttonText">read more</span>
                 <span class="arrow material-icons">arrow_forward</span>
             </button>
-        </div>`));
-    
+        </div>`
+    ));
 }
+
 
 window.addEventListener("load", loadEvent);
